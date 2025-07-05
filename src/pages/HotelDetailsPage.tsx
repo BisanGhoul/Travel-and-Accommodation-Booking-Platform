@@ -30,7 +30,6 @@ const HotelDetailsPage: FC = () => {
     const { hotelId } = useParams<{ hotelId: string }>();
     const id = hotelId ?? '';
 
-    // -- Fetch all data in parallel
     const {
         data: details,
         isLoading: loadingDetails,
@@ -52,7 +51,6 @@ const HotelDetailsPage: FC = () => {
         isLoading: loadingReviews,
     } = useHotelReviews(id);
 
-    // -- Tab state & refs
     const [activeTab, setActiveTab] = useState(0);
     const descriptionRef = useRef<HTMLDivElement>(null);
     const amenitiesRef = useRef<HTMLDivElement>(null);
@@ -65,7 +63,6 @@ const HotelDetailsPage: FC = () => {
             ?.scrollIntoView({ behavior: 'smooth' });
     };
 
-    // -- Error state
     if (detailsError) {
         return (
             <Box p={4}>
@@ -75,7 +72,6 @@ const HotelDetailsPage: FC = () => {
         );
     }
 
-    // -- Loading state (before we have `details`)
     if (loadingDetails || !details) {
         return (
             <Box p={4}>
@@ -92,7 +88,6 @@ const HotelDetailsPage: FC = () => {
             <Header />
 
             <Box maxWidth="lg" mx="auto" py={4} px={2} component="main">
-                {/* === NAME / TYPE / RATING === */}
                 <Typography variant="h4" component="h1" gutterBottom>
                     {details.hotelName}
                 </Typography>
@@ -112,14 +107,12 @@ const HotelDetailsPage: FC = () => {
                     </Typography>
                 </Box>
 
-                {/* === IMAGE GALLERY === */}
                 {loadingGallery ? (
                     <Skeleton variant="rectangular" height={300} />
                 ) : (
                     <HotelImageGallery images={gallery!} />
                 )}
 
-                {/* === TABS === */}
                 <Tabs
                     value={activeTab}
                     onChange={handleTabChange}
@@ -130,7 +123,6 @@ const HotelDetailsPage: FC = () => {
                         borderBottom: '1px solid',
                         borderColor: 'divider',
                         mt: 2,
-                        // style the indicator directly
                         '& .MuiTabs-indicator': {
                             height: 4,
                             backgroundColor: 'secondary.main',
@@ -146,7 +138,6 @@ const HotelDetailsPage: FC = () => {
                     ))}
                 </Tabs>
 
-                {/* === DESCRIPTION === */}
                 <Box ref={descriptionRef} mt={4} mb={3}>
                     <DescriptionSection
                         title="Description"
@@ -157,7 +148,6 @@ const HotelDetailsPage: FC = () => {
                 </Box>
                 <Divider />
 
-                {/* === AMENITIES === */}
                 <Box ref={amenitiesRef} mt={4} mb={3}>
                     <ServicesSection
                         title="Amenities"
@@ -166,7 +156,6 @@ const HotelDetailsPage: FC = () => {
                 </Box>
                 <Divider />
 
-                {/* === ROOMS === */}
                 <Box ref={roomsRef} mt={4} mb={3}>
                     <Typography variant="h5" gutterBottom>
                         Available Rooms
@@ -185,7 +174,6 @@ const HotelDetailsPage: FC = () => {
                 </Box>
                 <Divider />
 
-                {/* === REVIEWS === */}
                 <Box ref={reviewsRef} mt={4} mb={3}>
                     <Typography variant="h5" gutterBottom>
                         Reviews
