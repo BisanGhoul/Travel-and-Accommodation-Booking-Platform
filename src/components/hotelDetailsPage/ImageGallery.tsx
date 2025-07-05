@@ -1,4 +1,5 @@
-import React from 'react';
+import type { FC } from 'react';
+
 import ImageList from '@mui/material/ImageList';
 import ImageListItem from '@mui/material/ImageListItem';
 import ImageListItemBar from '@mui/material/ImageListItemBar';
@@ -13,7 +14,7 @@ type HotelImageGalleryProps = {
   images: ImageItem[];
 };
 
-const HotelImageGallery: React.FC<HotelImageGalleryProps> = ({ images }) => {
+const HotelImageGallery: FC<HotelImageGalleryProps> = ({ images }) => {
   return (
     <ImageList
       variant="quilted"
