@@ -183,7 +183,8 @@ app.post("/api/bookings", (req, res) => {
 
   const bookings = getJsonData("bookings.json");
   const newBooking = {
-    bookingId: bookings.length > 0 ? bookings[bookings.length - 1].bookingId + 1 : 1,
+    bookingId:
+      bookings.length > 0 ? bookings[bookings.length - 1].bookingId + 1 : 1,
     customerId,
     customerName,
     nationalId,
@@ -209,7 +210,9 @@ app.post("/api/bookings", (req, res) => {
 app.get("/api/bookings/:id", (req, res) => {
   res.json(getJsonData("bookings.json"));
 });
-
+app.get("/api/bookings", (req, res) => {
+  res.json(getJsonData("bookings.json"));
+});
 app.get("/api/home/search", async (req, res) => {
   const { city, checkInDate, checkOutDate, adults, children, numberOfRooms } =
     req.query;
