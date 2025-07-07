@@ -1,10 +1,9 @@
-import type { City } from '../types/city';
-import type { CityOption } from '../types/cityOption';
+import type { CityOption as City} from '../types/cityOption';
 import { axiosInstance } from './axiosInstance';
 
 
 export const fetchCityOptions = async () => {
-    const { data } = await axiosInstance.get<CityOption[]>('/api/cities');
+    const { data } = await axiosInstance.get<City[]>('/api/cities');
     return data;
 }
 
@@ -19,7 +18,7 @@ export const createCity = async (newCity: Omit<City, 'id'>): Promise<City[]> => 
 };
 
 export const updateCity = async (city: City): Promise<City[]> => {
-    const { data } = await axiosInstance.put<City[]>(`/api/cities/${city.cityId}`, city);
+    const { data } = await axiosInstance.put<City[]>(`/api/cities/${city.id}`, city);
     return data;
 };
 

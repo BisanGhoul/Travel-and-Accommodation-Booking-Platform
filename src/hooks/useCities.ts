@@ -5,7 +5,7 @@ import {
     updateCity,
     deleteCity,
 } from '../api/cityApi';
-import type { City } from '../types/city';
+import type { CityOption as City } from '../types/cityOption';
 
 export const useCities = () => {
     return useQuery<City[], Error>({
