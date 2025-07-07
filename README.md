@@ -1,8 +1,8 @@
 
-## 🖼️ Screenshots
+## Screenshots
 
 ### 🔹 Homepage
-![Homepage](./Innsight-homepage.png)
+![Homepage](./innsight-screenshots/Innsight-homepage.png)
 
 ### 🔹 Hotel Details Page
 ![Hotel Details](./Innsight-hotelpage.png)
