@@ -1,0 +1,32 @@
+[
+  {
+    "hotelId": 101,
+    "hotelName": "Central Park Hotel",
+    "starRating": 5,
+    "visitDate": "2024-01-30T14:30:00Z",
+    "cityName": "New York",
+    "thumbnailUrl": "https://www.parkcentralny.com/wp-content/uploads/2025/01/PCNY_Local-Area-Map_Central-Park-768x439.jpg",
+    "priceLowerBound": 150,
+    "priceUpperBound": 300
+  },
+  {
+    "hotelId": 202,
+    "hotelName": "Hollywood Grand Suites",
+    "starRating": 4,
+    "visitDate": "2024-01-28T12:00:00Z",
+    "cityName": "Los Angeles",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/proxy/bjK6rqV4QY8XDS4yNGvjM8Z46M_2tZpvVDup57GnrCGiFjTrRBQJrAR8kyR5RbAWcpe_5MRBpH-7o_tk1zir7QE_XQnM0fZxFUwKCUJbMCFNttd1qqdXwERUA5SZpqnfNXSIzkDfBn_pcI7I17508jkUWgi_IQ=s1360-w1360-h1020",
+    "priceLowerBound": 120,
+    "priceUpperBound": 250
+  },
+  {
+    "hotelId": 303,
+    "hotelName": "Miami Beach Resort",
+    "starRating": 3,
+    "visitDate": "2024-01-25T10:15:00Z",
+    "cityName": "Miami",
+    "thumbnailUrl": "https://www.usatoday.com/gcdn/-mm-/05b227ad5b8ad4e9dcb53af4f31d7fbdb7fa901b/c=0-64-2119-1259/local/-/media/USATODAY/USATODAY/2014/08/13/1407953244000-177513283.jpg?width=1320&height=746&fit=crop&format=pjpg&auto=webp",
+    "priceLowerBound": 100,
+    "priceUpperBound": 200
+  }
+]

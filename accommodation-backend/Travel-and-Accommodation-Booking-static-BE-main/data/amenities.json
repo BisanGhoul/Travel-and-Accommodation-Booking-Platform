@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Free Wi-Fi",
+    "description": "Stay connected with high-speed internet throughout the resort."
+  },
+  {
+    "id": 2,
+    "name": "Swimming Pool",
+    "description": "An infinity pool with stunning ocean views."
+  },
+  {
+    "id": 3,
+    "name": "Gym",
+    "description": "Fully equipped gym with modern fitness equipment."
+  },
+  {
+    "id": 4,
+    "name": "Spa",
+    "description": "Relax and rejuvenate with spa treatments."
+  },
+  {
+    "id": 5,
+    "name": "24/7 Reception",
+    "description": "Always available to assist you with anything you need."
+  },
+  {
+    "id": 6,
+    "name": "Private Pool",
+    "description": "Enjoy a private pool with a stunning view."
+  },
+  {
+    "id": 7,
+    "name": "Personal Butler",
+    "description": "A dedicated butler for all your needs."
+  },
+  {
+    "id": 8,
+    "name": "Rooftop Bar",
+    "description": "Enjoy cocktails with an amazing city view."
+  },
+  {
+    "id": 9,
+    "name": "Smart Home",
+    "description": "Rooms equipped with smart home technology."
+  },
+  {
+    "id": 10,
+    "name": "Heated Pool",
+    "description": "A luxurious heated pool for year-round relaxation."
+  },
+  {
+    "id": 11,
+    "name": "Fire Pit",
+    "description": "Gather around the fire pit for a cozy evening."
+  },
+  {
+    "id": 12,
+    "name": "Beach Access",
+    "description": "Direct access to the beach from your room."
+  },
+  {
+    "id": 13,
+    "name": "Chandelier",
+    "description": "Luxurious crystal chandelier in every room."
+  },
+  {
+    "id": 14,
+    "name": "Jacuzzi",
+    "description": "Relax in a private jacuzzi."
+  },
+  {
+    "id": 15,
+    "name": "Fishing",
+    "description": "Enjoy fishing on the lake."
+  },
+  {
+    "id": 16,
+    "name": "Boating",
+    "description": "Rent a boat and enjoy the peaceful waters."
+  },
+  {
+    "id": 17,
+    "name": "Garden Views",
+    "description": "Enjoy beautiful views of the lush garden."
+  },
+  {
+    "id": 18,
+    "name": "Afternoon Tea",
+    "description": "Relax with an afternoon tea in the garden."
+  }
+]

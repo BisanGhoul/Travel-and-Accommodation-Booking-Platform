@@ -1,0 +1,41 @@
+[
+  {
+    "bookingId": 1,
+    "customerId": 1,
+    "customerName": "bisa",
+    "nationalId": "1234567890",
+    "phoneNumber": "1234567890",
+    "checkIn": "2025-07-04T21:00:00.000Z",
+    "checkOut": "2025-07-06T21:00:00.000Z",
+    "totalPayment": 1000,
+    "hotelName": "Sunset Resort",
+    "hotelId": "Sunset Resort",
+    "roomNumber": 1
+  },
+  {
+    "bookingId": 2,
+    "customerId": 1,
+    "customerName": "bisan",
+    "nationalId": "123456789",
+    "phoneNumber": "0569400420",
+    "checkIn": "2025-07-06T21:00:00.000Z",
+    "checkOut": "2025-07-11T21:00:00.000Z",
+    "totalPayment": 2500,
+    "hotelName": "Sunset Resort",
+    "hotelId": "Sunset Resort",
+    "roomNumber": 1
+  },
+  {
+    "bookingId": 3,
+    "customerId": 1,
+    "customerName": "Bisan Ghoul",
+    "nationalId": "211835371",
+    "phoneNumber": "0569123456",
+    "checkIn": "2025-07-06T21:00:00.000Z",
+    "checkOut": "2025-07-09T21:00:00.000Z",
+    "totalPayment": 1500,
+    "hotelName": "Sunset Resort",
+    "hotelId": "Sunset Resort",
+    "roomNumber": 1
+  }
+]

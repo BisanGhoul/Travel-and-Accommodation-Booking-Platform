@@ -1,0 +1,157 @@
+[
+  {
+    "id": 3,
+    "name": "Tokyo",
+    "description": "The bustling capital of Japan, known for its advanced technology, shopping, and unique blend of old and new."
+  },
+  {
+    "id": 4,
+    "name": "London",
+    "description": "The capital of England, famous for its historical landmarks, museums, and theaters."
+  },
+  {
+    "id": 5,
+    "name": "Rome",
+    "description": "The capital of Italy, known for its ancient history, stunning architecture, and delicious food."
+  },
+  {
+    "id": 6,
+    "name": "Paris",
+    "description": "good place"
+  },
+  {
+    "id": 7,
+    "name": "Bali",
+    "description": "Bali\n"
+  },
+  {
+    "id": 8,
+    "name": "Swiss Alps",
+    "description": ""
+  },
+  {
+    "id": 9,
+    "name": "New York",
+    "description": ""
+  },
+  {
+    "id": 10,
+    "name": "Maldives",
+    "description": ""
+  },
+  {
+    "id": 11,
+    "name": "Dubai",
+    "description": ""
+  },
+  {
+    "id": 12,
+    "name": "San Diego",
+    "description": ""
+  },
+  {
+    "id": 13,
+    "name": "Whistler",
+    "description": ""
+  },
+  {
+    "id": 14,
+    "name": "Kruger National Park",
+    "description": ""
+  },
+  {
+    "id": 15,
+    "name": "Los Angeles",
+    "description": ""
+  },
+  {
+    "id": 16,
+    "name": "Denver",
+    "description": ""
+  },
+  {
+    "id": 17,
+    "name": "San Francisco",
+    "description": ""
+  },
+  {
+    "id": 18,
+    "name": "Las Vegas",
+    "description": ""
+  },
+  {
+    "id": 19,
+    "name": "West Palm Beach",
+    "description": ""
+  },
+  {
+    "id": 20,
+    "name": "Honolulu",
+    "description": ""
+  },
+  {
+    "id": 21,
+    "name": "Boston",
+    "description": ""
+  },
+  {
+    "id": 22,
+    "name": "Fresno",
+    "description": ""
+  },
+  {
+    "id": 23,
+    "name": "Yellowstone National Park",
+    "description": ""
+  },
+  {
+    "id": 24,
+    "name": "Atlanta",
+    "description": ""
+  },
+  {
+    "id": 25,
+    "name": "Chicago",
+    "description": ""
+  },
+  {
+    "id": 26,
+    "name": "New Haven",
+    "description": ""
+  },
+  {
+    "id": 27,
+    "name": "Miami",
+    "description": ""
+  },
+  {
+    "id": 28,
+    "name": "Phoenix",
+    "description": ""
+  },
+  {
+    "id": 29,
+    "name": "Santa Monica",
+    "description": ""
+  },
+  {
+    "id": 30,
+    "name": "Palm Springs",
+    "description": ""
+  },
+  {
+    "id": 31,
+    "name": "Seattle",
+    "description": ""
+  },
+  {
+    "id": 32,
+    "name": "Savannah",
+    "description": ""
+  },
+  {
+    "id": 33,
+    "name": "Ramallah",
+    "description": "Best city in Palestine"
+  }
+]

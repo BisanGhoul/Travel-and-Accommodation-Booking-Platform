@@ -1,0 +1,62 @@
+[
+  {
+    "hotelId": 101,
+    "originalRoomPrice": 200.0,
+    "discount": 20.0,
+    "finalPrice": 180.0,
+    "cityName": "New York",
+    "hotelName": "Grand Plaza Hotel",
+    "hotelStarRating": 5,
+    "title": "Luxury Stay in the Heart of NYC",
+    "description": "Enjoy a luxurious stay with top-notch amenities and breathtaking views of the city skyline.",
+    "roomPhotoUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/45106790.jpg?k=f0021ec3dc42c14ae81c916f64cd68ca14c9e120082c504313fb18d408238073&o=&hp=1"
+  },
+  {
+    "hotelId": 202,
+    "originalRoomPrice": 150.0,
+    "discount": 10.0,
+    "finalPrice": 135.0,
+    "cityName": "Los Angeles",
+    "hotelName": "Sunset Boulevard",
+    "hotelStarRating": 4,
+    "title": "Exclusive Deal in LA",
+    "description": "Book now and save on this elegant and modern hotel near Hollywood attractions.",
+    "roomPhotoUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/412091492.jpg?k=d0583ac4503a6ae97c0d8427d4c77e3610ecc4bf8dfb045b2194dbe5c1125736&o=&hp=1"
+  },
+  {
+    "hotelId": 303,
+    "originalRoomPrice": 120.0,
+    "discount": 15.0,
+    "finalPrice": 102.0,
+    "cityName": "Miami",
+    "hotelName": "Ocean View Resort",
+    "hotelStarRating": 3,
+    "title": "Beachfront Escape with a Special Discount",
+    "description": "Relax and unwind at this beachfront resort with stunning ocean views.",
+    "roomPhotoUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/179469671.jpg?k=7c98c65ee735d31b7f57f0dbadb9b1177a9e59fc918298585c3bdb19914bb107&o="
+  },
+  {
+    "hotelId": 404,
+    "originalRoomPrice": 180.0,
+    "discount": 25.0,
+    "finalPrice": 135.0,
+    "cityName": "Chicago",
+    "hotelName": "Lakeside Comfort Inn",
+    "hotelStarRating": 4,
+    "title": "Comfort and Views by Lake Michigan",
+    "description": "Stay near the waterfront with easy access to downtown attractions and scenic walks.",
+    "roomPhotoUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/565766498.jpg?k=60d09e354cca8ccac58158865aa7e2dc12e1a46da996832a00890edd4bb2c6c8&o="
+  },
+  {
+    "hotelId": 505,
+    "originalRoomPrice": 100.0,
+    "discount": 5.0,
+    "finalPrice": 95.0,
+    "cityName": "Seattle",
+    "hotelName": "Rainy Days Inn",
+    "hotelStarRating": 3,
+    "title": "Cozy Urban Getaway",
+    "description": "A warm and cozy retreat nestled in downtown Seattle, perfect for budget-friendly city visits.",
+    "roomPhotoUrl": "https://www.usatoday.com/gcdn/-mm-/05b227ad5b8ad4e9dcb53af4f31d7fbdb7fa901b/c=0-64-2119-1259/local/-/media/USATODAY/USATODAY/2014/08/13/1407953244000-177513283.jpg?width=1320&height=746&fit=crop&format=pjpg&auto=webp"
+  }
+]

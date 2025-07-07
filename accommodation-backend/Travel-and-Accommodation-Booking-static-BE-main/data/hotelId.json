@@ -1,0 +1,105 @@
+{
+  "id": 1,
+  "hotelName": "Sunset Resort",
+  "location": "Bali, Indonesia",
+  "description": "A luxurious resort overlooking the ocean with top-notch amenities and breathtaking views.",
+  "hotelType": "Resort",
+  "starRating": 5,
+  "latitude": -8.3405,
+  "longitude": 115.0915,
+  "rooms": [
+    {
+      "id": 101,
+      "name": "Ocean View Suite",
+      "type": "Suite",
+      "price": 500.0,
+      "available": true,
+      "maxOccupancy": 4
+    },
+    {
+      "id": 102,
+      "name": "Garden View Room",
+      "type": "Standard",
+      "price": 200.0,
+      "available": true,
+      "maxOccupancy": 2
+    }
+  ],
+  "imageUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/457524208.jpg?k=5b680e7009b3fcdec99ae79d91decd52bcb7bb9ac0de30d1a5925f27834fe6bb&o=&hp=1",
+  "availableRooms": 10,
+  "cityId": 101,
+  "amenities": [
+    {
+      "id": 1,
+      "name": "Free Wi‑Fi",
+      "description": "High‑speed internet throughout the resort.",
+      "iconUrl": "http://localhost:5000/icons/wifi-icon.svg"
+    },
+    {
+      "id": 2,
+      "name": "Swimming Pool",
+      "description": "Infinity pool with ocean views.",
+      "iconUrl": "http://localhost:5000/icons/pool24.svg"
+    },
+    {
+      "id": 3,
+      "name": "Spa",
+      "description": "Relaxing spa treatments available.",
+      "iconUrl": "http://localhost:5000/icons/spa24.svg"
+    },
+    {
+      "id": 4,
+      "name": "Gym & Fitness",
+      "description": "24/7 modern fitness center.",
+      "iconUrl": "http://localhost:5000/icons/gym24.svg"
+    },
+    {
+      "id": 5,
+      "name": "Airport Shuttle",
+      "description": "Complimentary airport transport.",
+      "iconUrl": "http://localhost:5000/icons/airport_shuttle_24.svg"
+    },
+    {
+      "id": 6,
+      "name": "Room Service",
+      "description": "24-hour in-room dining.",
+      "iconUrl": "http://localhost:5000/icons/room_service_24.svg"
+    },
+    {
+      "id": 7,
+      "name": "Restaurant",
+      "description": "On-site dining with international menu.",
+      "iconUrl": "http://localhost:5000/icons/restaurant24.svg"
+    },
+    {
+      "id": 8,
+      "name": "Bar & Lounge",
+      "description": "Stylish cocktails & beverages.",
+      "iconUrl": "http://localhost:5000/icons/bar24.svg"
+    },
+    {
+      "id": 9,
+      "name": "Free Parking",
+      "description": "Private on-site parking.",
+      "iconUrl": "http://localhost:5000/icons/parking24.svg"
+    },
+    {
+      "id": 10,
+      "name": "Pet Friendly",
+      "description": "Pets are welcome.",
+      "iconUrl": "http://localhost:5000/icons/pet24.svg"
+    },
+    {
+      "id": 11,
+      "name": "Laundry",
+      "description": "Laundry and dry-cleaning services.",
+      "iconUrl": "http://localhost:5000/icons/laundry24.svg"
+    },
+    {
+      "id": 12,
+      "name": "Concierge",
+      "description": "Tour, booking & reservation assistance.",
+      "iconUrl": "http://localhost:5000/icons/concierge_24.svg"
+    }
+  ]
+}

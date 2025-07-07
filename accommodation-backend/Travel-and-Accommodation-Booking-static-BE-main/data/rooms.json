@@ -1,0 +1,1030 @@
+[
+  {
+    "0": {
+      "0": {
+        "0": {
+          "0": {
+            "roomId": 201,
+            "roomNumber": 101,
+            "roomPhotoUrl": "https://example.com/room1.jpg",
+            "roomType": "Deluxe Suite",
+            "capacityOfAdults": 2,
+            "capacityOfChildren": 2,
+            "amenities": [
+              {
+                "id": 1,
+                "name": "Free Wi-Fi",
+                "description": "High-speed internet access"
+              },
+              {
+                "id": 2,
+                "name": "Air Conditioning",
+                "description": "Individually controlled air conditioning"
+              }
+            ],
+            "price": 251,
+            "availability": true
+          },
+          "1": {
+            "roomId": 202,
+            "roomNumber": 102,
+            "roomPhotoUrl": "https://example.com/room2.jpg",
+            "roomType": "Standard Room",
+            "capacityOfAdults": 2,
+            "capacityOfChildren": 1,
+            "amenities": [
+              {
+                "id": 3,
+                "name": "Flat-screen TV",
+                "description": "Includes international channels"
+              }
+            ],
+            "price": 150,
+            "availability": true
+          },
+          "2": {
+            "roomId": 203,
+            "roomNumber": 103,
+            "roomPhotoUrl": "https://example.com/room3.jpg",
+            "roomType": "Executive Suite",
+            "capacityOfAdults": 3,
+            "capacityOfChildren": 2,
+            "amenities": [
+              {
+                "id": 4,
+                "name": "Mini Bar",
+                "description": "Stocked with beverages and snacks"
+              },
+              {
+                "id": 5,
+                "name": "Balcony",
+                "description": "Private balcony with sea view"
+              }
+            ],
+            "price": 350,
+            "availability": false
+          },
+          "3": {
+            "roomId": 204,
+            "roomNumber": 104,
+            "roomPhotoUrl": "https://example.com/room4.jpg",
+            "roomType": "Family Room",
+            "capacityOfAdults": 4,
+            "capacityOfChildren": 3,
+            "amenities": [
+              {
+                "id": 6,
+                "name": "Kitchenette",
+                "description": "Includes a microwave and fridge"
+              }
+            ],
+            "price": 400,
+            "availability": true
+          },
+          "4": {
+            "roomId": 205,
+            "roomNumber": 105,
+            "roomPhotoUrl": "https://example.com/room5.jpg",
+            "roomType": "Luxury Suite",
+            "capacityOfAdults": 2,
+            "capacityOfChildren": 1,
+            "amenities": [
+              {
+                "id": 7,
+                "name": "Jacuzzi",
+                "description": "Private in-room Jacuzzi"
+              },
+              {
+                "id": 8,
+                "name": "Smart TV",
+                "description": "Netflix and streaming services included"
+              }
+            ],
+            "price": 500,
+            "availability": true
+          },
+          "5": {
+            "roomId": 206,
+            "roomNumber": 106,
+            "roomPhotoUrl": "https://example.com/room6.jpg",
+            "roomType": "Presidential Suite",
+            "capacityOfAdults": 5,
+            "capacityOfChildren": 3,
+            "amenities": [
+              {
+                "id": 9,
+                "name": "Private Pool",
+                "description": "Infinity pool with ocean view"
+              }
+            ],
+            "price": 1000,
+            "availability": false
+          },
+          "6": {
+            "roomId": 207,
+            "roomNumber": 107,
+            "roomPhotoUrl": "https://example.com/room7.jpg",
+            "roomType": "Standard Room",
+            "capacityOfAdults": 2,
+            "capacityOfChildren": 0,
+            "amenities": [
+              {
+                "id": 10,
+                "name": "Coffee Maker",
+                "description": "Complimentary coffee and tea"
+              }
+            ],
+            "price": 120,
+            "availability": true
+          },
+          "7": {
+            "roomId": 208,
+            "roomNumber": 108,
+            "roomPhotoUrl": "https://example.com/room8.jpg",
+            "roomType": "Deluxe Room",
+            "capacityOfAdults": 3,
+            "capacityOfChildren": 1,
+            "amenities": [
+              {
+                "id": 11,
+                "name": "24/7 Room Service",
+                "description": "Round-the-clock dining services"
+              }
+            ],
+            "price": 220,
+            "availability": false
+          },
+          "8": {
+            "roomId": 209,
+            "roomNumber": 109,
+            "roomPhotoUrl": "https://example.com/room9.jpg",
+            "roomType": "Twin Room",
+            "capacityOfAdults": 2,
+            "capacityOfChildren": 1,
+            "amenities": [
+              {
+                "id": 12,
+                "name": "Laundry Service",
+                "description": "Same-day laundry and dry cleaning"
+              }
+            ],
+            "price": 180,
+            "availability": true
+          },
+          "9": {
+            "roomId": 210,
+            "roomNumber": 110,
+            "roomPhotoUrl": "https://example.com/room10.jpg",
+            "roomType": "Penthouse Suite",
+            "capacityOfAdults": 6,
+            "capacityOfChildren": 4,
+            "amenities": [
+              {
+                "id": 13,
+                "name": "Private Chef",
+                "description": "Exclusive private dining experience"
+              }
+            ],
+            "price": 2000,
+            "availability": true
+          },
+          "roomId": 201,
+          "roomNumber": 101,
+          "roomPhotoUrl": "https://example.com/room1.jpg",
+          "roomType": "Deluxe Suite",
+          "capacityOfAdults": 2,
+          "capacityOfChildren": 2,
+          "amenities": [
+            {
+              "id": 1,
+              "name": "Free Wi-Fi",
+              "description": "High-speed internet access"
+            },
+            {
+              "id": 2,
+              "name": "Air Conditioning",
+              "description": "Individually controlled air conditioning"
+            }
+          ],
+          "price": 243,
+          "availability": true
+        },
+        "1": {
+          "roomId": 202,
+          "roomNumber": 102,
+          "roomPhotoUrl": "https://example.com/room2.jpg",
+          "roomType": "Standard Room",
+          "capacityOfAdults": 2,
+          "capacityOfChildren": 1,
+          "amenities": [
+            {
+              "id": 3,
+              "name": "Flat-screen TV",
+              "description": "Includes international channels"
+            }
+          ],
+          "price": 150,
+          "availability": true
+        },
+        "2": {
+          "roomId": 203,
+          "roomNumber": 103,
+          "roomPhotoUrl": "https://example.com/room3.jpg",
+          "roomType": "Executive Suite",
+          "capacityOfAdults": 3,
+          "capacityOfChildren": 2,
+          "amenities": [
+            {
+              "id": 4,
+              "name": "Mini Bar",
+              "description": "Stocked with beverages and snacks"
+            },
+            {
+              "id": 5,
+              "name": "Balcony",
+              "description": "Private balcony with sea view"
+            }
+          ],
+          "price": 350,
+          "availability": false
+        },
+        "3": {
+          "roomId": 204,
+          "roomNumber": 104,
+          "roomPhotoUrl": "https://example.com/room4.jpg",
+          "roomType": "Family Room",
+          "capacityOfAdults": 4,
+          "capacityOfChildren": 3,
+          "amenities": [
+            {
+              "id": 6,
+              "name": "Kitchenette",
+              "description": "Includes a microwave and fridge"
+            }
+          ],
+          "price": 400,
+          "availability": true
+        },
+        "4": {
+          "roomId": 205,
+          "roomNumber": 105,
+          "roomPhotoUrl": "https://example.com/room5.jpg",
+          "roomType": "Luxury Suite",
+          "capacityOfAdults": 2,
+          "capacityOfChildren": 1,
+          "amenities": [
+            {
+              "id": 7,
+              "name": "Jacuzzi",
+              "description": "Private in-room Jacuzzi"
+            },
+            {
+              "id": 8,
+              "name": "Smart TV",
+              "description": "Netflix and streaming services included"
+            }
+          ],
+          "price": 500,
+          "availability": true
+        },
+        "5": {
+          "roomId": 206,
+          "roomNumber": 106,
+          "roomPhotoUrl": "https://example.com/room6.jpg",
+          "roomType": "Presidential Suite",
+          "capacityOfAdults": 5,
+          "capacityOfChildren": 3,
+          "amenities": [
+            {
+              "id": 9,
+              "name": "Private Pool",
+              "description": "Infinity pool with ocean view"
+            }
+          ],
+          "price": 1000,
+          "availability": false
+        },
+        "6": {
+          "roomId": 207,
+          "roomNumber": 107,
+          "roomPhotoUrl": "https://example.com/room7.jpg",
+          "roomType": "Standard Room",
+          "capacityOfAdults": 2,
+          "capacityOfChildren": 0,
+          "amenities": [
+            {
+              "id": 10,
+              "name": "Coffee Maker",
+              "description": "Complimentary coffee and tea"
+            }
+          ],
+          "price": 120,
+          "availability": true
+        },
+        "7": {
+          "roomId": 208,
+          "roomNumber": 108,
+          "roomPhotoUrl": "https://example.com/room8.jpg",
+          "roomType": "Deluxe Room",
+          "capacityOfAdults": 3,
+          "capacityOfChildren": 1,
+          "amenities": [
+            {
+              "id": 11,
+              "name": "24/7 Room Service",
+              "description": "Round-the-clock dining services"
+            }
+          ],
+          "price": 220,
+          "availability": false
+        },
+        "8": {
+          "roomId": 209,
+          "roomNumber": 109,
+          "roomPhotoUrl": "https://example.com/room9.jpg",
+          "roomType": "Twin Room",
+          "capacityOfAdults": 2,
+          "capacityOfChildren": 1,
+          "amenities": [
+            {
+              "id": 12,
+              "name": "Laundry Service",
+              "description": "Same-day laundry and dry cleaning"
+            }
+          ],
+          "price": 180,
+          "availability": true
+        },
+        "9": {
+          "roomId": 210,
+          "roomNumber": 110,
+          "roomPhotoUrl": "https://example.com/room10.jpg",
+          "roomType": "Penthouse Suite",
+          "capacityOfAdults": 6,
+          "capacityOfChildren": 4,
+          "amenities": [
+            {
+              "id": 13,
+              "name": "Private Chef",
+              "description": "Exclusive private dining experience"
+            }
+          ],
+          "price": 2000,
+          "availability": true
+        },
+        "roomId": 201,
+        "roomNumber": 101,
+        "roomPhotoUrl": "https://example.com/room1.jpg",
+        "roomType": "Deluxe Suite",
+        "capacityOfAdults": 2,
+        "capacityOfChildren": 2,
+        "amenities": [
+          {
+            "id": 1,
+            "name": "Free Wi-Fi",
+            "description": "High-speed internet access"
+          },
+          {
+            "id": 2,
+            "name": "Air Conditioning",
+            "description": "Individually controlled air conditioning"
+          }
+        ],
+        "price": 250,
+        "availability": true
+      },
+      "1": {
+        "roomId": 202,
+        "roomNumber": 102,
+        "roomPhotoUrl": "https://example.com/room2.jpg",
+        "roomType": "Standard Room",
+        "capacityOfAdults": 2,
+        "capacityOfChildren": 1,
+        "amenities": [
+          {
+            "id": 3,
+            "name": "Flat-screen TV",
+            "description": "Includes international channels"
+          }
+        ],
+        "price": 150,
+        "availability": true
+      },
+      "2": {
+        "roomId": 203,
+        "roomNumber": 103,
+        "roomPhotoUrl": "https://example.com/room3.jpg",
+        "roomType": "Executive Suite",
+        "capacityOfAdults": 3,
+        "capacityOfChildren": 2,
+        "amenities": [
+          {
+            "id": 4,
+            "name": "Mini Bar",
+            "description": "Stocked with beverages and snacks"
+          },
+          {
+            "id": 5,
+            "name": "Balcony",
+            "description": "Private balcony with sea view"
+          }
+        ],
+        "price": 350,
+        "availability": false
+      },
+      "3": {
+        "roomId": 204,
+        "roomNumber": 104,
+        "roomPhotoUrl": "https://example.com/room4.jpg",
+        "roomType": "Family Room",
+        "capacityOfAdults": 4,
+        "capacityOfChildren": 3,
+        "amenities": [
+          {
+            "id": 6,
+            "name": "Kitchenette",
+            "description": "Includes a microwave and fridge"
+          }
+        ],
+        "price": 400,
+        "availability": true
+      },
+      "4": {
+        "roomId": 205,
+        "roomNumber": 105,
+        "roomPhotoUrl": "https://example.com/room5.jpg",
+        "roomType": "Luxury Suite",
+        "capacityOfAdults": 2,
+        "capacityOfChildren": 1,
+        "amenities": [
+          {
+            "id": 7,
+            "name": "Jacuzzi",
+            "description": "Private in-room Jacuzzi"
+          },
+          {
+            "id": 8,
+            "name": "Smart TV",
+            "description": "Netflix and streaming services included"
+          }
+        ],
+        "price": 500,
+        "availability": true
+      },
+      "5": {
+        "roomId": 206,
+        "roomNumber": 106,
+        "roomPhotoUrl": "https://example.com/room6.jpg",
+        "roomType": "Presidential Suite",
+        "capacityOfAdults": 5,
+        "capacityOfChildren": 3,
+        "amenities": [
+          {
+            "id": 9,
+            "name": "Private Pool",
+            "description": "Infinity pool with ocean view"
+          }
+        ],
+        "price": 1000,
+        "availability": false
+      },
+      "6": {
+        "roomId": 207,
+        "roomNumber": 107,
+        "roomPhotoUrl": "https://example.com/room7.jpg",
+        "roomType": "Standard Room",
+        "capacityOfAdults": 2,
+        "capacityOfChildren": 0,
+        "amenities": [
+          {
+            "id": 10,
+            "name": "Coffee Maker",
+            "description": "Complimentary coffee and tea"
+          }
+        ],
+        "price": 120,
+        "availability": true
+      },
+      "7": {
+        "roomId": 208,
+        "roomNumber": 108,
+        "roomPhotoUrl": "https://example.com/room8.jpg",
+        "roomType": "Deluxe Room",
+        "capacityOfAdults": 3,
+        "capacityOfChildren": 1,
+        "amenities": [
+          {
+            "id": 11,
+            "name": "24/7 Room Service",
+            "description": "Round-the-clock dining services"
+          }
+        ],
+        "price": 220,
+        "availability": false
+      },
+      "8": {
+        "roomId": 209,
+        "roomNumber": 109,
+        "roomPhotoUrl": "https://example.com/room9.jpg",
+        "roomType": "Twin Room",
+        "capacityOfAdults": 2,
+        "capacityOfChildren": 1,
+        "amenities": [
+          {
+            "id": 12,
+            "name": "Laundry Service",
+            "description": "Same-day laundry and dry cleaning"
+          }
+        ],
+        "price": 180,
+        "availability": true
+      },
+      "9": {
+        "roomId": 210,
+        "roomNumber": 110,
+        "roomPhotoUrl": "https://example.com/room10.jpg",
+        "roomType": "Penthouse Suite",
+        "capacityOfAdults": 6,
+        "capacityOfChildren": 4,
+        "amenities": [
+          {
+            "id": 13,
+            "name": "Private Chef",
+            "description": "Exclusive private dining experience"
+          }
+        ],
+        "price": 2000,
+        "availability": true
+      },
+      "10": {
+        "roomId": 211,
+        "roomNumber": 120,
+        "roomPhotoUrl": "",
+        "roomType": "Deluxe",
+        "capacityOfAdults": 1,
+        "capacityOfChildren": 1,
+        "price": 1,
+        "amenities": [],
+        "availability": true
+      },
+      "roomId": 201,
+      "roomNumber": 101,
+      "roomPhotoUrl": "https://example.com/room1.jpg",
+      "roomType": "Deluxe Suite",
+      "capacityOfAdults": 2,
+      "capacityOfChildren": 2,
+      "amenities": [
+        {
+          "id": 1,
+          "name": "Free Wi-Fi",
+          "description": "High-speed internet access"
+        },
+        {
+          "id": 2,
+          "name": "Air Conditioning",
+          "description": "Individually controlled air conditioning"
+        }
+      ],
+      "price": 250,
+      "availability": true
+    },
+    "1": {
+      "roomId": 202,
+      "roomNumber": 102,
+      "roomPhotoUrl": "https://example.com/room2.jpg",
+      "roomType": "Standard Room",
+      "capacityOfAdults": 2,
+      "capacityOfChildren": 1,
+      "amenities": [
+        {
+          "id": 3,
+          "name": "Flat-screen TV",
+          "description": "Includes international channels"
+        }
+      ],
+      "price": 150,
+      "availability": true
+    },
+    "2": {
+      "roomId": 203,
+      "roomNumber": 103,
+      "roomPhotoUrl": "https://example.com/room3.jpg",
+      "roomType": "Executive Suite",
+      "capacityOfAdults": 3,
+      "capacityOfChildren": 2,
+      "amenities": [
+        {
+          "id": 4,
+          "name": "Mini Bar",
+          "description": "Stocked with beverages and snacks"
+        },
+        {
+          "id": 5,
+          "name": "Balcony",
+          "description": "Private balcony with sea view"
+        }
+      ],
+      "price": 350,
+      "availability": false
+    },
+    "3": {
+      "roomId": 204,
+      "roomNumber": 104,
+      "roomPhotoUrl": "https://example.com/room4.jpg",
+      "roomType": "Family Room",
+      "capacityOfAdults": 4,
+      "capacityOfChildren": 3,
+      "amenities": [
+        {
+          "id": 6,
+          "name": "Kitchenette",
+          "description": "Includes a microwave and fridge"
+        }
+      ],
+      "price": 400,
+      "availability": true
+    },
+    "4": {
+      "roomId": 205,
+      "roomNumber": 105,
+      "roomPhotoUrl": "https://example.com/room5.jpg",
+      "roomType": "Luxury Suite",
+      "capacityOfAdults": 2,
+      "capacityOfChildren": 1,
+      "amenities": [
+        {
+          "id": 7,
+          "name": "Jacuzzi",
+          "description": "Private in-room Jacuzzi"
+        },
+        {
+          "id": 8,
+          "name": "Smart TV",
+          "description": "Netflix and streaming services included"
+        }
+      ],
+      "price": 500,
+      "availability": true
+    },
+    "5": {
+      "roomId": 206,
+      "roomNumber": 106,
+      "roomPhotoUrl": "https://example.com/room6.jpg",
+      "roomType": "Presidential Suite",
+      "capacityOfAdults": 5,
+      "capacityOfChildren": 3,
+      "amenities": [
+        {
+          "id": 9,
+          "name": "Private Pool",
+          "description": "Infinity pool with ocean view"
+        }
+      ],
+      "price": 1000,
+      "availability": false
+    },
+    "6": {
+      "roomId": 207,
+      "roomNumber": 107,
+      "roomPhotoUrl": "https://example.com/room7.jpg",
+      "roomType": "Standard Room",
+      "capacityOfAdults": 2,
+      "capacityOfChildren": 0,
+      "amenities": [
+        {
+          "id": 10,
+          "name": "Coffee Maker",
+          "description": "Complimentary coffee and tea"
+        }
+      ],
+      "price": 120,
+      "availability": true
+    },
+    "7": {
+      "roomId": 208,
+      "roomNumber": 108,
+      "roomPhotoUrl": "https://example.com/room8.jpg",
+      "roomType": "Deluxe Room",
+      "capacityOfAdults": 3,
+      "capacityOfChildren": 1,
+      "amenities": [
+        {
+          "id": 11,
+          "name": "24/7 Room Service",
+          "description": "Round-the-clock dining services"
+        }
+      ],
+      "price": 220,
+      "availability": false
+    },
+    "8": {
+      "roomId": 209,
+      "roomNumber": 109,
+      "roomPhotoUrl": "https://example.com/room9.jpg",
+      "roomType": "Twin Room",
+      "capacityOfAdults": 2,
+      "capacityOfChildren": 1,
+      "amenities": [
+        {
+          "id": 12,
+          "name": "Laundry Service",
+          "description": "Same-day laundry and dry cleaning"
+        }
+      ],
+      "price": 180,
+      "availability": true
+    },
+    "9": {
+      "roomId": 210,
+      "roomNumber": 110,
+      "roomPhotoUrl": "https://example.com/room10.jpg",
+      "roomType": "Penthouse Suite",
+      "capacityOfAdults": 6,
+      "capacityOfChildren": 4,
+      "amenities": [
+        {
+          "id": 13,
+          "name": "Private Chef",
+          "description": "Exclusive private dining experience"
+        }
+      ],
+      "price": 2000,
+      "availability": true
+    },
+    "10": {
+      "roomId": 211,
+      "roomNumber": 122,
+      "roomPhotoUrl": "",
+      "roomType": "Deluxe",
+      "capacityOfAdults": 2,
+      "capacityOfChildren": 2,
+      "price": 1234,
+      "amenities": [],
+      "availability": true
+    },
+    "roomId": 201,
+    "roomNumber": 101,
+    "roomPhotoUrl": "https://example.com/room1.jpg",
+    "roomType": "Deluxe Suite",
+    "capacityOfAdults": 2,
+    "capacityOfChildren": 2,
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Free Wi-Fi",
+        "description": "High-speed internet access"
+      },
+      {
+        "id": 2,
+        "name": "Air Conditioning",
+        "description": "Individually controlled air conditioning"
+      }
+    ],
+    "price": 250,
+    "availability": true
+  },
+  {
+    "roomId": 202,
+    "roomNumber": 102,
+    "roomPhotoUrl": "https://example.com/room2.jpg",
+    "roomType": "Standard Room",
+    "capacityOfAdults": 2,
+    "capacityOfChildren": 1,
+    "amenities": [
+      {
+        "id": 3,
+        "name": "Flat-screen TV",
+        "description": "Includes international channels"
+      }
+    ],
+    "price": 150,
+    "availability": true
+  },
+  {
+    "roomId": 203,
+    "roomNumber": 103,
+    "roomPhotoUrl": "https://example.com/room3.jpg",
+    "roomType": "Executive Suite",
+    "capacityOfAdults": 3,
+    "capacityOfChildren": 2,
+    "amenities": [
+      {
+        "id": 4,
+        "name": "Mini Bar",
+        "description": "Stocked with beverages and snacks"
+      },
+      {
+        "id": 5,
+        "name": "Balcony",
+        "description": "Private balcony with sea view"
+      }
+    ],
+    "price": 350,
+    "availability": false
+  },
+  {
+    "roomId": 204,
+    "roomNumber": 104,
+    "roomPhotoUrl": "https://example.com/room4.jpg",
+    "roomType": "Family Room",
+    "capacityOfAdults": 4,
+    "capacityOfChildren": 3,
+    "amenities": [
+      {
+        "id": 6,
+        "name": "Kitchenette",
+        "description": "Includes a microwave and fridge"
+      }
+    ],
+    "price": 400,
+    "availability": true
+  },
+  {
+    "roomId": 205,
+    "roomNumber": 105,
+    "roomPhotoUrl": "https://example.com/room5.jpg",
+    "roomType": "Luxury Suite",
+    "capacityOfAdults": 2,
+    "capacityOfChildren": 1,
+    "amenities": [
+      {
+        "id": 7,
+        "name": "Jacuzzi",
+        "description": "Private in-room Jacuzzi"
+      },
+      {
+        "id": 8,
+        "name": "Smart TV",
+        "description": "Netflix and streaming services included"
+      }
+    ],
+    "price": 500,
+    "availability": true
+  },
+  {
+    "roomId": 206,
+    "roomNumber": 106,
+    "roomPhotoUrl": "https://example.com/room6.jpg",
+    "roomType": "Presidential Suite",
+    "capacityOfAdults": 5,
+    "capacityOfChildren": 3,
+    "amenities": [
+      {
+        "id": 9,
+        "name": "Private Pool",
+        "description": "Infinity pool with ocean view"
+      }
+    ],
+    "price": 1000,
+    "availability": false
+  },
+  {
+    "roomId": 207,
+    "roomNumber": 107,
+    "roomPhotoUrl": "https://example.com/room7.jpg",
+    "roomType": "Standard Room",
+    "capacityOfAdults": 2,
+    "capacityOfChildren": 0,
+    "amenities": [
+      {
+        "id": 10,
+        "name": "Coffee Maker",
+        "description": "Complimentary coffee and tea"
+      }
+    ],
+    "price": 120,
+    "availability": true
+  },
+  {
+    "roomId": 208,
+    "roomNumber": 108,
+    "roomPhotoUrl": "https://example.com/room8.jpg",
+    "roomType": "Deluxe Room",
+    "capacityOfAdults": 3,
+    "capacityOfChildren": 1,
+    "amenities": [
+      {
+        "id": 11,
+        "name": "24/7 Room Service",
+        "description": "Round-the-clock dining services"
+      }
+    ],
+    "price": 220,
+    "availability": false
+  },
+  {
+    "roomId": 209,
+    "roomNumber": 109,
+    "roomPhotoUrl": "https://example.com/room9.jpg",
+    "roomType": "Twin Room",
+    "capacityOfAdults": 2,
+    "capacityOfChildren": 1,
+    "amenities": [
+      {
+        "id": 12,
+        "name": "Laundry Service",
+        "description": "Same-day laundry and dry cleaning"
+      }
+    ],
+    "price": 180,
+    "availability": true
+  },
+  {
+    "roomId": 210,
+    "roomNumber": 110,
+    "roomPhotoUrl": "https://example.com/room10.jpg",
+    "roomType": "Penthouse Suite",
+    "capacityOfAdults": 6,
+    "capacityOfChildren": 4,
+    "amenities": [
+      {
+        "id": 13,
+        "name": "Private Chef",
+        "description": "Exclusive private dining experience"
+      }
+    ],
+    "price": 2000,
+    "availability": true
+  },
+  {
+    "roomId": 211,
+    "roomNumber": 122,
+    "roomPhotoUrl": "",
+    "roomType": "Deluxe",
+    "capacityOfAdults": 2,
+    "capacityOfChildren": 2,
+    "price": 2,
+    "amenities": [],
+    "availability": true
+  },
+  {
+    "roomId": 101,
+    "roomNumber": 1,
+    "roomPhotoUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/179049179.jpg?k=154aef35279ec3534f3b44d33f63cde88f9e7469a7c2154e97d4158a18e628ac&o=&hp=1",
+    "roomType": "Ocean View Suite",
+    "capacityOfAdults": 2,
+    "capacityOfChildren": 2,
+    "roomAmenities": [
+      {
+        "id": 1,
+        "name": "Free Wi-Fi",
+        "description": "High-speed internet access"
+      },
+      {
+        "id": 2,
+        "name": "Air Conditioning",
+        "description": "Cool and comfortable air conditioning"
+      }
+    ],
+    "price": 500,
+    "availability": true,
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Free Wi-Fi",
+        "description": "High-speed internet access"
+      },
+      {
+        "id": 2,
+        "name": "Air Conditioning",
+        "description": "Cool and comfortable air conditioning"
+      }
+    ],
+    "available": false
+  },
+  {
+    "roomId": 102,
+    "roomNumber": 2,
+    "roomPhotoUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/457524211.jpg?k=28e15c26dd1f11266d9bd21757d79b706b5a775c3258ab4a4c608fe3eb642aba&o=&hp=1",
+    "roomType": "Garden View Room",
+    "capacityOfAdults": 2,
+    "capacityOfChildren": 1,
+    "roomAmenities": [
+      {
+        "id": 3,
+        "name": "TV",
+        "description": "Flat-screen TV with cable channels"
+      },
+      {
+        "id": 4,
+        "name": "Mini Fridge",
+        "description": "Fully stocked mini-fridge"
+      }
+    ],
+    "price": 200,
+    "availability": true,
+    "amenities": [
+      {
+        "id": 3,
+        "name": "TV",
+        "description": "Flat-screen TV with cable channels"
+      },
+      {
+        "id": 4,
+        "name": "Mini Fridge",
+        "description": "Fully stocked mini-fridge"
+      }
+    ],
+    "available": false
+  }
+]
