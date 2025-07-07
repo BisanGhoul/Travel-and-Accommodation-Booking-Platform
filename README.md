@@ -38,14 +38,70 @@ An accommodation web application for booking hotel rooms, managing reservations,
 ---
 
 ## Screenshots
-**click to view in full screen**
-| Homepage | Search Results | Hotel Details | Book Room Modal |
-|----------|---------------|--------------|-----------------|
-| ![Homepage](./innsight-screenshots/Innsight-homepage.png) | ![Search](./innsight-screenshots/Innsight-searchpage.png) | ![Hotel](./innsight-screenshots/Innsight-hotelpage.png) | ![Book Room](./innsight-screenshots/Innsight-bookroom.png) |
 
-| Profile | Summary | Confirmation | PDF Receipt |
-|---------|---------|--------------|-------------|
-| ![Profile](./innsight-screenshots/Innsight-profilepage.png) | ![Summary](./innsight-screenshots/Innsight-summary.png) | ![Confirmation](./innsight-screenshots/Innsight-confirmation.png) | ![PDF](./innsight-screenshots/Innsight-pdf.png) |
+<details open>
+  <summary><strong>Homepage</strong></summary>
+
+  <p align="center">
+    <img src="./innsight-screenshots/Innsight-homepage.png" alt="Homepage" style="max-width:100%; height:auto;" />
+  </p>
+</details>
+
+<details>
+  <summary><strong>Search Results</strong></summary>
+
+  <p align="center">
+    <img src="./innsight-screenshots/Innsight-searchpage.png" alt="Search Results" style="max-width:100%; height:auto;" />
+  </p>
+</details>
+
+<details>
+  <summary><strong>Hotel Details</strong></summary>
+
+  <p align="center">
+    <img src="./innsight-screenshots/Innsight-hotelpage.png" alt="Hotel Details" style="max-width:100%; height:auto;" />
+  </p>
+</details>
+
+<details>
+  <summary><strong>Book Room Modal</strong></summary>
+
+  <p align="center">
+    <img src="./innsight-screenshots/Innsight-bookroom.png" alt="Book Room Modal" style="max-width:100%; height:auto;" />
+  </p>
+</details>
+
+<details>
+  <summary><strong>Profile Page</strong></summary>
+
+  <p align="center">
+    <img src="./innsight-screenshots/Innsight-profilepage.png" alt="Profile Page" style="max-width:100%; height:auto;" />
+  </p>
+</details>
+
+<details>
+  <summary><strong>Reservation Summary</strong></summary>
+
+  <p align="center">
+    <img src="./innsight-screenshots/Innsight-summary.png" alt="Reservation Summary" style="max-width:100%; height:auto;" />
+  </p>
+</details>
+
+<details>
+  <summary><strong>Confirmation</strong></summary>
+
+  <p align="center">
+    <img src="./innsight-screenshots/Innsight-confirmation.png" alt="Confirmation" style="max-width:100%; height:auto;" />
+  </p>
+</details>
+
+<details>
+  <summary><strong>PDF Receipt</strong></summary>
+
+  <p align="center">
+    <img src="./innsight-screenshots/Innsight-pdf.png" alt="PDF Receipt" style="max-width:100%; height:auto;" />
+  </p>
+</details>
 
 ---
 
